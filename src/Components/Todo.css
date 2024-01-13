@@ -1,0 +1,14 @@
+.item{
+    border: 1px solid black;
+    /* height: 50px; */
+    /* width: 150px; */
+    margin: 30px;
+    padding: 40px;
+    list-style: none;
+}
+
+.items{
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+}
